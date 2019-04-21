@@ -17,4 +17,5 @@ This repository holds the experiments done in CS8261 Lab(C Programming Laborator
    * String operations **(experiment-11.c)**
    * Towers of Hanoi using Recursion **(experiment-12.c)**
    * Sorting an Array with pass by ref **(experiment-13.c)**
+   * Salary Slip **(experiment-14.c)**
    * Telephone Directory using Random File Access **(experiment-16.c)**
